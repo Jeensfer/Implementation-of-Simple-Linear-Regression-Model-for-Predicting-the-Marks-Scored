@@ -15,6 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
+DEVELOPED BY: JEENSFER JO
 # Step 1: Import Libraries
 import numpy as np
 import pandas as pd
